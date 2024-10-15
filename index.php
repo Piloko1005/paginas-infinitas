@@ -29,12 +29,12 @@
                 <div class="container-box">
                     <h2>Cuentos</h2>
                     <div class="d-flex flex-wrap justify-content-center">
-                        <button class="btn btn-primary btn-circle kanit-thin" style="background-color: darkblue;">La Ultima Generacion</button>
-                        <button class="btn btn-primary btn-circle kanit-thin" style="background-color: red;">Mitologia Coceza</button>
-                        <button class="btn btn-primary btn-circle kanit-thin" style="background-color: orange;">La rebelion de los siete pueblos</button>
-                        <button class="btn btn-primary btn-circle kanit-thin" style="background-color: pink;">La hidalga y el mapache</button>
-                        <button class="btn btn-primary btn-circle kanit-thin" style="background-color: black;">Botman</button>
-                        <button class="btn btn-primary btn-circle kanit-thin" style="background-color: purple;">El conejo de la corona dorada</button>
+                        <a href="La_Ultima_Generacion.php"><button class="btn btn-primary btn-circle kanit-thin" style="background-color: darkblue;">La Ultima Generacion</button></a>
+                        <a href="Mitologia_Coceza.php"><button class="btn btn-primary btn-circle kanit-thin" style="background-color: red;">Mitologia Coceza</button></a>
+                        <a href="La_Rebelion_de_los_Siete_Pueblos.php"><button class="btn btn-primary btn-circle kanit-thin" style="background-color: orange;">La rebelion de los siete pueblos</button></a>
+                        <a href="La_Hidalga_y_el_Mapache.php"><button class="btn btn-primary btn-circle kanit-thin" style="background-color: pink;">La hidalga y el mapache</button></a>
+                        <a href="Botman.php"><button class="btn btn-primary btn-circle kanit-thin" style="background-color: black;">Botman</button></a>
+                        <a href="El_Conejo_de_la_Corona_Dorada.php"><button class="btn btn-primary btn-circle kanit-thin" style="background-color: purple;">El conejo de la corona dorada</button></a>
                     </div>
                     </div>
         </div>
