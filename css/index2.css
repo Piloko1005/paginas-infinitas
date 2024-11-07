@@ -1,0 +1,55 @@
+body, html {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    font-family: Arial, sans-serif;
+}
+.container {
+    height: 100vh;
+    background-size: cover;
+    background-position: center;
+    transition: background-image 0.5s;
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+}
+.slider {
+    display: flex;
+    overflow-x: auto;
+    padding: 10px;
+    background: rgba(0, 0, 0, 0.5);
+}
+.slider img {
+    width: 100px;
+    height: 100px;
+    object-fit: cover;
+    margin: 0 10px;
+    cursor: pointer;
+    border-radius: 8px;
+}
+.info {
+    position: absolute;
+    top: 20px;
+    color: white;
+    text-align: center;
+}
+.info h1 {
+    margin: 0;
+    font-size: 2em;
+}
+.info p {
+    margin: 10px 0;
+    font-size: 1.2em;
+}
+.info button {
+    padding: 10px 20px;
+    font-size: 1em;
+    border: none;
+    background-color: #007BFF;
+    color: white;
+    border-radius: 5px;
+    cursor: pointer;
+}
+.title{
+    color: black;
+}

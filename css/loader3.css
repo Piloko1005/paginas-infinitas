@@ -151,3 +151,7 @@
     }
   }
   
+body{
+  place-items: center;
+    padding-top: 260px;
+}
