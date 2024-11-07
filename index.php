@@ -5,6 +5,8 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Paginas Infinitas</title>
     <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="css/loader.css">
+    <link rel="stylesheet" href="css/loader2.css">
     <link href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet">
     <style>
         body{
@@ -30,10 +32,10 @@
                     <h2>Cuentos</h2>
                     <div class="d-flex flex-wrap justify-content-center">
                         <a href="loader.php"><button class="btn btn-primary btn-circle kanit-thin" style="background-color: darkblue;">La Ultima Generacion</button></a>
-                        <a href="Mitologia_Coceza.php"><button class="btn btn-primary btn-circle kanit-thin" style="background-color: red;">Mitologia Coceza</button></a>
+                        <a href="loader2.php"><button class="btn btn-primary btn-circle kanit-thin" style="background-color: red;">Mitologia Coceza</button></a>
                         <a href="La_Rebelion_de_los_Siete_Pueblos.php"><button class="btn btn-primary btn-circle kanit-thin" style="background-color: orange;">La rebelion de los siete pueblos</button></a>
                         <a href="La_Hidalga_y_el_Mapache.php"><button class="btn btn-primary btn-circle kanit-thin" style="background-color: pink;">La hidalga y el mapache</button></a>
-                        <a href="Botman.php"><button class="btn btn-primary btn-circle kanit-thin" style="background-color: black;">Botman</button></a>
+                        <a href="loader3.php"><button class="btn btn-primary btn-circle kanit-thin" style="background-color: black;">Botman</button></a>
                         <a href="El_Conejo_de_la_Corona_Dorada.php"><button class="btn btn-primary btn-circle kanit-thin" style="background-color: purple;">El conejo de la corona dorada</button></a>
                     </div>
                     </div>

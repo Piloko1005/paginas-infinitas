@@ -15,17 +15,8 @@
         <img style="width:500px; height:500px;" src="img/bot-img_2.png" alt="">
     </div>
     <div>
-        <p></p>
+        <p>El lugar era de clima calido, y seco, habian piramides por todas partes y un gran pueblo estaba a la vista</p>
         <img style="width:500px; height:500px;" src="img/bot-img_3.png" alt="">
-    </div>
-
-
-    <div>
-        <h2>Personajes</h2>
-        <div>
-            <img src="img/coz-img_3.png" alt="">
-            <h5 style="text-align: center;">nombre</h5>
-        </div>
     </div>
 </body>
 </html>
