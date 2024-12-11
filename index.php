@@ -33,7 +33,7 @@
                     <div class="d-flex flex-wrap justify-content-center">
                         <a href="loader.php"><button class="btn btn-primary btn-circle kanit-thin" style="background-color: darkblue;">La Ultima Generacion</button></a>
                         <a href="loader2.php"><button class="btn btn-primary btn-circle kanit-thin" style="background-color: red;">Mitologia Coceza</button></a>
-                        <a href="La_Rebelion_de_los_Siete_Pueblos.php"><button class="btn btn-primary btn-circle kanit-thin" style="background-color: orange;">La rebelion de los siete pueblos</button></a>
+                        <a href="Percy_Jackson_y_el_Multiverso_Mitologico.php"><button class="btn btn-primary btn-circle kanit-thin" style="background-color: orange;">Percy Jackson y el Multiverso Mitologico</button></a>
                         <a href="La_Hidalga_y_el_Mapache.php"><button class="btn btn-primary btn-circle kanit-thin" style="background-color: pink;">La hidalga y el mapache</button></a>
                         <a href="loader3.php"><button class="btn btn-primary btn-circle kanit-thin" style="background-color: black;">Botman</button></a>
                         <a href="El_Conejo_de_la_Corona_Dorada.php"><button class="btn btn-primary btn-circle kanit-thin" style="background-color: purple;">El conejo de la corona dorada</button></a>
