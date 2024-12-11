@@ -21,26 +21,30 @@
 <body>
     <div class="container">
           <div class="title">
+            <br>
             <h1>EDITORIAL</h1>
             <P>Paginas Infinitas</P>
 
           </div>
           
           <div class="row">
-            <div class="col-md-6">
+            <div class="col-md-6"><br>
                 <div class="container-box">
                     <h2>Cuentos</h2>
                     <div class="d-flex flex-wrap justify-content-center">
                         <a href="loader.php"><button class="btn btn-primary btn-circle kanit-thin" style="background-color: darkblue;">La Ultima Generacion</button></a>
                         <a href="loader2.php"><button class="btn btn-primary btn-circle kanit-thin" style="background-color: red;">Mitologia Coceza</button></a>
-                        <a href="Percy_Jackson_y_el_Multiverso_Mitologico.php"><button class="btn btn-primary btn-circle kanit-thin" style="background-color: orange;">Percy Jackson y el Multiverso Mitologico</button></a>
-                        <a href="La_Hidalga_y_el_Mapache.php"><button class="btn btn-primary btn-circle kanit-thin" style="background-color: pink;">La hidalga y el mapache</button></a>
+                        <a href="loader5.php"><button class="btn btn-primary btn-circle kanit-thin" style="background-color: orange;">Percy Jackson y el Multiverso Mitologico</button></a>
+                        <a href="Loader4.php"><button class="btn btn-primary btn-circle kanit-thin" style="background-color: pink;">La hidalga y el mapache</button></a>
                         <a href="loader3.php"><button class="btn btn-primary btn-circle kanit-thin" style="background-color: black;">Botman</button></a>
-                        <a href="El_Conejo_de_la_Corona_Dorada.php"><button class="btn btn-primary btn-circle kanit-thin" style="background-color: purple;">El conejo de la corona dorada</button></a>
+                        <a href="El_comidapocalipsis.php"><button class="btn btn-primary btn-circle kanit-thin" style="background-color: purple;">El Comidapocalipsis</button></a>
                     </div>
                     </div>
         </div>
-                    <div class="col-md-6">
+        <br>
+        <br>
+        <div class="col-md-6">
+                        <br>
                         <div class="container-box flex-column-center">
                             <h2>Sobre Nosotros</h2>
                             <p>¡Hola! ¡Somos Paginas Infinitas Editorial! Creamos muchas historias para todas las edades, desde niños hasta adultos. Nos encargamos de darte herramientas de diversion que abren un nuevo mundo fantastico donde tus pensamientos e imaginacion se hacen realidad, ¡Acompañanos en este hermoso mundo de la literatura!</p>
